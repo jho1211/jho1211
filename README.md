@@ -2,7 +2,7 @@
 
 ## About Me
 
-- **Education**: BCS and BSc in Biochemistry
+- **Education**: BCS and BSc in Biochemistry @ UBC
 - **Hobbies**: Badminton, Running, Cooking, Netflix, Walking
 
 <!--
