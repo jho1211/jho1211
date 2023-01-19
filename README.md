@@ -2,7 +2,8 @@
 
 ## About Me
 
-- Hobbies: Badminton, Running, Cooking, Netflix, Walking
+- **Education**: BCS and BSc in Biochemistry
+- **Hobbies**: Badminton, Running, Cooking, Netflix, Walking
 
 <!--
 **jho1211/jho1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
