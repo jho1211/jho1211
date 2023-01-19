@@ -2,8 +2,11 @@
 
 ## About Me
 
+- **Name**: Jeff
 - **Education**: BCS and BSc in Biochemistry @ UBC
 - **Hobbies**: Badminton, Running, Cooking, Netflix, Walking
+- **Programming Languages**: C#, Javascript, HTML, Python, Java
+- **Languages**: English, Cantonese, Spanish (un poco)
 
 <!--
 **jho1211/jho1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
