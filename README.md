@@ -8,6 +8,12 @@
 - **Programming Languages**: C#, Javascript, HTML, Python, Java
 - **Languages**: English, Cantonese, Spanish (un poco)
 
+```py
+def hello_world(x):
+    print("Hello dear, {}".format(x))
+    return
+```
+
 <!--
 **jho1211/jho1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
