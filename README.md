@@ -3,7 +3,7 @@
 ## About Me
 
 - **Name**: Jeff
-- **Education**: BCS and BSc in Biochemistry @ UBC
+- **Education**: BCS (current) and BSc in Biochemistry @ UBC
 - **Hobbies**: Badminton, Running, Cooking, Netflix, Walking
 - **Programming Languages**: C#, Javascript, HTML, Python, Java
 - **Languages**: English, Cantonese, Spanish (un poco)
