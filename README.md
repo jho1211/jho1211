@@ -9,12 +9,10 @@
 - **Languages**: English, Cantonese, Spanish (un poco)
 
 ```py
-def hello_world(x):
-    print("Hello dear, {}".format(x))
+def hello_world():
+    print("Goodbye world...")
     return
 ```
-
-*Hello dear*
 
 <!--
 **jho1211/jho1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
