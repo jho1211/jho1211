@@ -10,7 +10,7 @@
 
 ```py
 def hello_world():
-    print("Goodbye world...")
+    print("I am 1337 coder...")
     return
 ```
 
