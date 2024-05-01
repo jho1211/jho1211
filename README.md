@@ -5,14 +5,11 @@
 - **Name**: Jeff
 - **Education**: Bachelor of Computer Science (current) and Bachelor of Science in Biochemistry @ UBC
 - **Hobbies**: Badminton, Volleyball, Running, Cooking, Reading
-- **Programming Languages**: Javascript, HTML, Python, Java
+- **Programming Languages**: Javascript, Python, Java
 - **Languages**: English, Cantonese, Spanish (un poco)
 
-```py
-def hello_world():
-    print("I am 1337 coder...")
-    return
-```
+## Links to Projects:
+[UBC TA Scheduler](https://ubctaschedulerdemo.netlify.app/)
 
 <!--
 **jho1211/jho1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
