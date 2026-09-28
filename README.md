@@ -8,9 +8,6 @@
 - **Programming Languages**: Javascript, Python, Java
 - **Languages**: English, Cantonese, Spanish (un poco)
 
-## Links to Projects:
-[UBC TA Scheduler](https://ubctaschedulerdemo.netlify.app/)
-
 <!--
 **jho1211/jho1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
